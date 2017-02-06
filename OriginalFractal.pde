@@ -15,7 +15,7 @@ public void draw()
 	//previousButton.clicked();
    	    //translate(640, 512);
 	    fractal(500, 500, 500);
-	    divided = 
+	    divided = 2;
 }
 public void fractal(float x, float y, float z)
 {
